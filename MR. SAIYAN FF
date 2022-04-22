@@ -3,6 +3,7 @@ apt upgraded
 pkg install 2
 pkg update 
 pkg upgrade 
+git colen https://github.com/mr.saiyan ff/MS-TARGET
 cd SAIYAN-TARGET.txt
 LS
 is
