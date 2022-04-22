@@ -1,0 +1,10 @@
+apt update 
+apt upgraded 
+pkg install 2
+pkg update 
+pkg upgrade 
+cd SAIYAN-TARGET.txt
+LS
+is
+python2 saiyan target.pyc
+
